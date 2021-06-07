@@ -3,4 +3,8 @@ Talking about the gameplay, it is one of the most played games of all time. All 
 The gameplay design is so simple that user won’t find it difficult to use and navigate.
 
 
+![image](https://user-images.githubusercontent.com/85341519/120993045-d1979880-c7a0-11eb-8b8d-1e4095596d69.png)
+
+
+
 
